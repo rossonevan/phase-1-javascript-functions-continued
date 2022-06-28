@@ -1,1 +1,3 @@
-// code your solution here
+function saturdayFun(someVar = "roller-skate") {
+    return console.log(`This Saturday, I want to ${someVar}!`);
+  }
